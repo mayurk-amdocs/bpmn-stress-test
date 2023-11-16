@@ -1,4 +1,5 @@
 ## Getting Started
-- install dependencies
-> $ npm install
-
+install dependencies
+```
+$ npm install
+```
