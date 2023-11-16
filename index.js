@@ -2,7 +2,7 @@ const express = require("express");
 const axios = require("axios");
 const app = express();
 
-const inputData = require("./input-data/multi-task");
+const inputData = require("./input-data/fcc.js");
 const PORT = 55000;
 const HOST = "localhost";
 const bpmnBaseUrl = "http://localhost:22030";
